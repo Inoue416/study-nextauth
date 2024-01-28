@@ -1,5 +1,4 @@
 import GithubPrvider from "next-auth/providers/github";
-import { GithubProfile } from "next-auth/providers/github";
 
 export const githubProviders = [
     GithubPrvider({
